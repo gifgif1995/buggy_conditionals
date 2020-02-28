@@ -31,3 +31,4 @@ if (petName == "Jimmy") {
 else if (petName == "Fluffy") {
     console.log("You got it right!!")
 }
+# gitBugs
